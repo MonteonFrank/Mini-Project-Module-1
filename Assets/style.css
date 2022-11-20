@@ -1,0 +1,45 @@
+*{ 
+    font-family: "Lucida Sans Unicode";
+    color:white;
+    background-color: black;
+  }
+
+img{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 750px;
+}
+
+footer{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: red;
+}
+
+#button{
+
+    background-color: white;
+    color: black;
+
+}
+
+.contactinfo{
+text-align: center;
+}
+
+#paragraph{
+    color: green;
+}
+
+#sorry{
+    color: yellow;
+    text-align: center;
+}
